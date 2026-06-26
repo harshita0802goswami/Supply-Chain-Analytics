@@ -1,6 +1,5 @@
 # Generating Insights to Solve a Supply Chain Issue in the FMCG domain | Power BI
 
-## 🔗 Live Dashboard
 **Power BI Report:**  
 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWNmZWJlNTgtZGIyMC00MmQ2LTg3NzMtZmNhZjgxYzZhYmJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
